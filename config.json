@@ -1,0 +1,10 @@
+{
+  "links":[
+          "https://api.gtaliferp.fr:8443/v1/extinction/marketplace/sell/kevlar",
+          "https://api.gtaliferp.fr:8443/v1/extinction/marketplace/sell/weapon_heavysniper",
+          "https://api.gtaliferp.fr:8443/v1/extinction/marketplace/sell/deluxo",
+          "https://api.gtaliferp.fr:8443/v1/extinction/marketplace/sell/weapon_assaultrifle",
+          "https://api.gtaliferp.fr:8443/v1/extinction/marketplace/sell/weapon_assaultrifle_mk2"
+          ],
+  "delay": 1
+}
