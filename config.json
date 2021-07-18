@@ -21,10 +21,8 @@
           "https://api.gtaliferp.fr:8443/v1/extinction/marketplace/sell/weapon_compactlauncher",
           "https://api.gtaliferp.fr:8443/v1/extinction/marketplace/sell/weapon_assaultrifle",
           "https://api.gtaliferp.fr:8443/v1/extinction/marketplace/sell/weapon_hominglauncher",
-          "https://api.gtaliferp.fr:8443/v1/extinction/marketplace/sell/weapon_combatmg",
           "https://api.gtaliferp.fr:8443/v1/extinction/marketplace/sell/weapon_combatmg_mk2",
           "https://api.gtaliferp.fr:8443/v1/extinction/marketplace/sell/weapon_assaultrifle_mk2",
-          "https://api.gtaliferp.fr:8443/v1/extinction/marketplace/sell/rocket",
           "https://api.gtaliferp.fr:8443/v1/extinction/marketplace/sell/thruster"
           ],
   "discount": 50,
