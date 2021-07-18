@@ -28,6 +28,6 @@
           "https://api.gtaliferp.fr:8443/v1/extinction/marketplace/sell/rocket",
           "https://api.gtaliferp.fr:8443/v1/extinction/marketplace/sell/thruster"
           ],
-  "discount": 0,
+  "discount": 70,
   "info": "the above value refers to the MINIMUM price different percent wise. So 80 means that you want the new item to be at least at an 80% discount to show on discord"
 }
