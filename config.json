@@ -13,8 +13,7 @@
           "https://api.gtaliferp.fr:8443/v1/extinction/marketplace/sell/weapon_heavysniper",
           "https://api.gtaliferp.fr:8443/v1/extinction/marketplace/sell/weapon_rpg",
           "https://api.gtaliferp.fr:8443/v1/extinction/marketplace/sell/weapon_compactlauncher",
-          "https://api.gtaliferp.fr:8443/v1/extinction/marketplace/sell/weapon_hominglauncher",
-          "https://api.gtaliferp.fr:8443/v1/extinction/marketplace/sell/thruster"
+          "https://api.gtaliferp.fr:8443/v1/extinction/marketplace/sell/weapon_hominglauncher"
           ],
   "discount": 50,
   "info": "the above value refers to the MINIMUM price different percent wise. So 80 means that you want the new item to be at least at an 80% discount to show on discord"
